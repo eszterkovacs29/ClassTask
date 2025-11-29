@@ -52,6 +52,7 @@ namespace ClassTask
             {
                 Console.WriteLine($"{student.name}, {student.age} éves, az átlaga: {student.Average()} ");
             }
+        
 
             Console.ReadKey();
         }
